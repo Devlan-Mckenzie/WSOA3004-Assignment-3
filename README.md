@@ -1,2 +1,2 @@
-# WSOA3004 Assignment 3
- Third Year game design final project 
+# WSOA3004-Assignment3
+ 3rd Game Design Assignment with final groups

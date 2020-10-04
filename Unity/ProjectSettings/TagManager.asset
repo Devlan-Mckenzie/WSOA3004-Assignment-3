@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Key
+  - PuzzlePiece
+  - Spawn
+  - CheckPoint
+  - Enemy
+  - PuzzleComplete
+  - Ladder
+  - Torch
+  - LightTrigger
+  - Redirect
+  - Semi
+  - Friend
+  - KeyDoor
+  - PuzzleTimer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - Boxes
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1872431311
+    locked: 0
+  - name: Fog
+    uniqueID: 2567981755
+    locked: 0
+  - name: Floor
+    uniqueID: 103818451
+    locked: 0
+  - name: Interactables
+    uniqueID: 1462895493
+    locked: 0
+  - name: Player
+    uniqueID: 1604381467
+    locked: 0
+  - name: Particle effects
+    uniqueID: 771291895
+    locked: 0
+  - name: UI
+    uniqueID: 2946545993
+    locked: 0
